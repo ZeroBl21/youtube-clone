@@ -6,6 +6,8 @@ import SearchFeed from './SearchFeed/SearchFeed.jsx'
 import SearchBar from './SearchBar/SearchBar.jsx'
 import Sidebar from './Sidebar/Sidebar.jsx'
 import Videos from './Videos/Videos.jsx'
+import VideoCard from './VideoCard/VideoCard.jsx'
+import ChannelCard from './ChannelCard/ChannelCard.jsx'
 
 export {
   Navbar,
@@ -16,4 +18,6 @@ export {
   SearchBar,
   Sidebar,
   Videos,
+  VideoCard,
+  ChannelCard,
 }
